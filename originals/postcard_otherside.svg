@@ -1472,7 +1472,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1560,7 +1560,7 @@
          style="font-size:11.36228085px;line-height:89.99999762%;fill:#333333"
          id="tspan3009"><tspan
    id="tspan5864"
-   style="font-size:11.36228085px;line-height:89.99999762%;fill:#666666">Творца: </tspan>удзельніца Вікіпедыі Svetit.</tspan><tspan
+   style="font-size:11.36228085px;line-height:89.99999762%;fill:#666666">Дызайн паштовак: </tspan>вікі-удзельніца Svetit.</tspan><tspan
          sodipodi:role="line"
          x="26.29063"
          y="1009.1257"
